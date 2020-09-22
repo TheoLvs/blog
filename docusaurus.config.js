@@ -1,15 +1,27 @@
 module.exports = {
   title: 'TheoLvs',
-  tagline: 'Blogging about Data Science & Machine Learning',
+  tagline: 'Experiments on Machine Learning & Simulations',
   url: 'https://theolvs.github.io',
-  baseUrl: '/',
+  baseUrl: '/blog/',
   onBrokenLinks: 'throw',
   favicon: 'img/circle-outline-32.ico',
   organizationName: 'TheoLvs', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      // "light" | "dark"
+      defaultMode: 'dark',
+
+      // Hides the switch in the navbar
+      // Useful if you want to support a single color mode
+      disableSwitch: true,
+
+      // // Should we use the prefers-color-scheme media-query,
+      // // using user system preferences, instead of the hardcoded defaultMode
+      // respectPrefersColorScheme: false,
+    },
     navbar: {
-      title: 'TheoLvs',
+      title: 'LVS',
       logo: {
         alt: 'My Site Logo',
         src: 'img/circle-outline-128.png',

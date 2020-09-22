@@ -61,10 +61,12 @@ function Home() {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
-        <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+      <header 
+        className={clsx('hero hero--primary', styles.heroBanner)} 
+        style={{backgroundImage:`url(${useBaseUrl('img/background5.jpg')})`,backgroundSize:"cover",height:"calc(100vh - 60px)"}}
+      >
+        <div className="container" >
+          <p className="hero__subtitle" style={{color:"white"}}>Experiments on Machine Learning & Simulations</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
@@ -72,12 +74,12 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('blog/')}>
-              Get Started
+              See articles
             </Link>
           </div>
         </div>
       </header>
-      <main>
+      {/* <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
@@ -89,7 +91,7 @@ function Home() {
             </div>
           </section>
         )}
-      </main>
+      </main> */}
     </Layout>
   );
 }
