@@ -71,7 +71,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
+              to={useBaseUrl('blog/')}>
               Get Started
             </Link>
           </div>
@@ -82,7 +82,7 @@ function Home() {
           <section className={styles.features}>
             <div className="container">
               <div className="row">
-                {features.map((props, idx) => (
+                {[].map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}
               </div>
