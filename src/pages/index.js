@@ -66,7 +66,8 @@ function Home() {
         style={{backgroundImage:`url(${useBaseUrl('img/background5.jpg')})`,backgroundSize:"cover",height:"calc(100vh - 60px)"}}
       >
         <div className="container" >
-          <p className="hero__subtitle" style={{color:"white"}}>Experiments on Machine Learning & Simulations</p>
+          <h1 className="hero__subtitle" style={{color:"white"}}>Experiments on Machine Learning & Simulations</h1>
+          <p className="hero__subtitle" style={{color:"white"}}>Playing with Reinforcement Learning, Cellular Automaton and Multi-Agents Simulations</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(

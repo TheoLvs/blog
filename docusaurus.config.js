@@ -105,6 +105,8 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+          customCss2: "https://fonts.googleapis.com/css?family=Roboto:400,400i,700",
+
         },
       },
     ],
