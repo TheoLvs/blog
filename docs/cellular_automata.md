@@ -52,6 +52,7 @@ slug: /
 - [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/) by Google on Distill.pub and [conference on Youtube](https://www.youtube.com/watch?v=unF2CVkMIiE&feature=youtu.be&ab_channel=AlexanderMordvintsev)
 - [Self-classifying MNIST Digits](https://distill.pub/2020/selforg/mnist/) by Google on Distill.pub
 - [Learning to Generate 3D Shapes with Generative Cellular Automata](https://openreview.net/forum?id=rABUmU3ulQh)
+- [It's Hard for Neural Networks To Learn the Game of Life](https://arxiv.org/abs/2009.01398) and [review](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/) 
 
 ### Articles
 - [Neural Cellular Automata For Art Recreation](https://towardsdatascience.com/neural-cellular-automata-for-art-recreation-6d9fb61afb37)
