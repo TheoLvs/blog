@@ -27,12 +27,12 @@ module.exports = {
         src: 'img/circle-outline-128.png',
       },
       items: [
-        // {
-        //   to: 'docs/',
-        //   activeBasePath: 'docs',
-        //   label: 'Docs',
-        //   position: 'left',
-        // },
+        {
+          to: 'docs/',
+          activeBasePath: 'docs',
+          label: 'Resources',
+          position: 'left',
+        },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/theolvs',
