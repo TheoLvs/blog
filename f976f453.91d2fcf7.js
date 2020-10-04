@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{75:function(e){e.exports=JSON.parse('{"version":"current","label":"Next","isLast":true,"docsSidebars":{"someSidebar":[{"collapsed":true,"type":"category","label":"Cellular Automata","items":[{"type":"link","label":"Resources","href":"/blog/docs/"}]}]},"permalinkToSidebar":{"/blog/docs/":"someSidebar"}}')}}]);
