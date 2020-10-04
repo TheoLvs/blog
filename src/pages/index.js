@@ -67,7 +67,7 @@ function Home() {
       >
         <div className="container" >
           <h1 className="hero__subtitle" style={{color:"white"}}>Experiments on Machine Learning & Simulations</h1>
-          <p className="hero__subtitle" style={{color:"white"}}>Playing with Reinforcement Learning, Cellular Automaton and Multi-Agents Simulations</p>
+          <p className="hero__subtitle" style={{color:"white"}}>Playing with Reinforcement Learning, Cellular Automata and Multi-Agents Simulations</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(

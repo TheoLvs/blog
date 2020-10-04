@@ -8,26 +8,27 @@ slug: /
 
 ![](https://media3.giphy.com/media/d7SnByEMkrdeoVQ2lT/200.gif)
 
-## Understanding Cellular Automaton
+## Understanding Cellular Automata
 - [Algorithmic Beauty: An Introduction to Cellular Automata](https://towardsdatascience.com/algorithmic-beauty-an-introduction-to-cellular-automata-f53179b3cf8f) by Evan Kozliner
 
-### 1D Cellular Automaton
+### 1D Cellular Automata
 
 - [Simple implementation of 1D CA in Python](https://ipython-books.github.io/122-simulating-an-elementary-cellular-automaton/)
 - [Visualizing all 1D CA](https://calebrob.com/fun/2019/10/02/elementary-cellular-automata.html)
 
 
 
-### 2D Cellular Automaton
+### 2D Cellular Automata
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C2vgICfQawE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 - [Conway's Game of Life in Python](https://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/) by Jake VanderPlas
+- [Cyclic Cellular Automata](https://softologyblog.wordpress.com/2013/08/29/cyclic-cellular-automata/) by Softology
 
 
-### 3D Cellular Automaton
+### 3D Cellular Automata
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQJ5aEsP6Fs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
