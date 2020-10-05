@@ -26,6 +26,7 @@ slug: /
 
 - [Conway's Game of Life in Python](https://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/) by Jake VanderPlas
 - [Cyclic Cellular Automata](https://softologyblog.wordpress.com/2013/08/29/cyclic-cellular-automata/) by Softology
+- [Wikipedia page for the Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 
 ### 3D Cellular Automata
@@ -45,6 +46,12 @@ slug: /
 - Fluid or sound modeling
 - [Urban growth modeling](https://www.youtube.com/watch?v=1WDALuu7oI4&feature=youtu.be&ab_channel=NCSUGeoForAllLab)
 - [Wave propagation](https://www.youtube.com/watch?v=qeltZU2GFgU&feature=youtu.be&ab_channel=AleksanderKawala)
+
+
+### References
+- [Typical uses of cellular automata](http://www.mjyonline.com/CellularAutomataUses.htm#:~:text=Cellular%20automata%20can%20be%20used%20directly%20to%20create%20visual%20or,model%20physical%20and%20biological%20systems.)
+- [CA applications](https://en.wikibooks.org/wiki/Cellular_Automata/Applications_of_Cellular_Automata)
+
 
 
 ## Neural Cellular Automata

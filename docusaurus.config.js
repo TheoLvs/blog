@@ -21,7 +21,7 @@ module.exports = {
       // respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'LVS',
+      title: 'EMERGENCE',
       logo: {
         alt: 'My Site Logo',
         src: 'img/circle-outline-128.png',
@@ -87,6 +87,12 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Théo Alves Da Costa`,
     },
   },
+  stylesheets:[
+    {
+      href: 'https://fonts.googleapis.com/css?family=Roboto:400,400i,700',
+      type: 'text/css',
+    }
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -104,9 +110,10 @@ module.exports = {
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-          customCss2: "https://fonts.googleapis.com/css?family=Roboto:400,400i,700",
-
+          customCss: [
+            require.resolve('./src/css/custom.css'),
+          ],
+          // customCss2: require.resolve("https://fonts.googleapis.com/css?family=Roboto:400,400i,700"),
         },
       },
     ],
