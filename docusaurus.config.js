@@ -110,10 +110,7 @@ module.exports = {
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
-          customCss: [
-            require.resolve('./src/css/custom.css'),
-          ],
-          // customCss2: require.resolve("https://fonts.googleapis.com/css?family=Roboto:400,400i,700"),
+          customCss:require.resolve('./src/css/custom.css'),
         },
       },
     ],
