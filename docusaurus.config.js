@@ -2,11 +2,11 @@ module.exports = {
   title: 'TheoLvs',
   tagline: 'Experiments on Machine Learning & Simulations',
   url: 'https://theolvs.github.io',
-  baseUrl: '/blog/',
+  baseUrl: '/theolvs.github.io/',
   onBrokenLinks: 'throw',
   favicon: 'img/circle-outline-32.ico',
   organizationName: 'TheoLvs', // Usually your GitHub org/user name.
-  projectName: 'blog', // Usually your repo name.
+  projectName: 'theolvs.github.io', // Usually your repo name.
   themeConfig: {
     colorMode: {
       // "light" | "dark"
