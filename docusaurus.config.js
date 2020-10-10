@@ -1,12 +1,12 @@
 module.exports = {
-  title: 'TheoLvs',
+  title: 'Emergence.pub',
   tagline: 'Experiments on Machine Learning & Simulations',
   url: 'https://theolvs.github.io',
-  baseUrl: '/theolvs.github.io/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/circle-outline-32.ico',
+  favicon: 'img/favicon.ico',
   organizationName: 'TheoLvs', // Usually your GitHub org/user name.
-  projectName: 'theolvs.github.io', // Usually your repo name.
+  projectName: 'blog', // Usually your repo name.
   themeConfig: {
     colorMode: {
       // "light" | "dark"
@@ -24,7 +24,7 @@ module.exports = {
       title: 'EMERGENCE',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/circle-outline-128.png',
+        src: 'img/logo3.png',
       },
       items: [
         {
