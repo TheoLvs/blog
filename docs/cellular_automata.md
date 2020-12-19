@@ -23,6 +23,8 @@ slug: /
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C2vgICfQawE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-FaqC4h5Ftg&ab_channel=Matemaks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 - [Conway's Game of Life in Python](https://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/) by Jake VanderPlas
 - [Cyclic Cellular Automata](https://softologyblog.wordpress.com/2013/08/29/cyclic-cellular-automata/) by Softology
