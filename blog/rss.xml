@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Emergence.pub Blog</title>
+        <link>https://theolvs.github.io/blog</link>
+        <description>Emergence.pub Blog</description>
+        <lastBuildDate>Fri, 05 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome to my blog]]></title>
+            <link>https://theolvs.github.io/blog/2021/03/05/welcome</link>
+            <guid>Welcome to my blog</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who am I?]]></description>
+        </item>
+    </channel>
+</rss>
