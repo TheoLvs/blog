@@ -7,7 +7,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: rgb(1, 207, 247);
+  --ifm-color-primary: #34a3e8;
   --ifm-color-primary-dark: rgb(33, 175, 144);
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
@@ -15,11 +15,110 @@
   --ifm-color-primary-lighter: rgb(235, 124, 155);
   --ifm-color-primary-lightest: rgb(213, 161, 176);
   --ifm-code-font-size: 95%;
+  --ifm-background-color:#151c36 !important;
+  --ifm-navbar-background-color:var(--ifm-background-color);
+  --ifm-footer-background-color:var(--ifm-background-color);
+  --ifm-background-surface-color:var(--ifm-background-color) !important;
+  --ifm-footer-background-color:var(--ifm-background-color) !important;
 }
+/* 
+:root {
+  --ifm-color-primary: #d7c378;
+  --ifm-color-primary-dark: #00ADD0;
+  --ifm-color-primary-darker:#00ADD0;
+  --ifm-color-primary-darkest: #00ADD0;
+  --ifm-color-primary-light: #d7c378;
+  --ifm-color-primary-lighter: #d7c378;
+  --ifm-color-primary-lightest: #d7c378;
+  --ifm-code-font-size: 95%;
+  --ifm-navbar-background-color: #16293c;
+  --ifm-background-color:#16293c;
+  --ifm-background-surface-color:var(--ifm-background-color);
+} */
 
 .docusaurus-highlight-code-line {
   background-color: rgb(20, 20, 40);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+
+body{
+  font-family:"Inter" !important;
+}
+
+.footer{
+  background-color: var(--ifm-background-color);
+
+}
+
+h2{
+  color:#e61f84;
+}
+
+.card{
+  margin-bottom:1rem;
+  background-color: #1c2548;
+}
+
+.badge.badge--primary{
+  margin-right:5px;
+}
+
+.badge{
+  background-color:#e61f84;
+  border:none;
+  font-size:70%
+}
+
+.badge.badge--primary > a{
+  color:white;
+  font-family: 'Segoe UI';
+}
+
+
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+ .heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureImage {
+  height: 200px;
+  width: 200px;
+}
+
+
+.avatar-theo{
+  border-radius: 100%;
+  width:50;
+  height:50;
 }

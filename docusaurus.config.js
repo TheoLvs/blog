@@ -21,11 +21,11 @@ module.exports = {
       // respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'EMERGENCE',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo3.png',
-      },
+      title: 'EMERGENCE.PUB',
+      // logo: {
+      //   alt: 'My Site Logo',
+      //   // src: 'img/logo3.png',
+      // },
       items: [
         {
           to: 'docs/',
@@ -34,6 +34,8 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'opensource/', label: 'Open Source', position: 'left'},
+        {to: 'about/', label: 'About', position: 'left'},
         {
           href: 'https://github.com/theolvs',
           label: 'GitHub',
