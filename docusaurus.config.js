@@ -8,6 +8,9 @@ module.exports = {
   organizationName: 'TheoLvs', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
   themeConfig: {
+    prism: {
+      theme: require('prism-react-renderer/themes/dracula'),
+    },
     colorMode: {
       // "light" | "dark"
       defaultMode: 'dark',
