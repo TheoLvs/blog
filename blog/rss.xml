@@ -4,13 +4,20 @@
         <title>Emergence.pub Blog</title>
         <link>https://theolvs.github.io/blog</link>
         <description>Emergence.pub Blog</description>
-        <lastBuildDate>Fri, 05 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Welcome to my blog]]></title>
+            <title><![CDATA[Solving the Traveling Salesman Problem with Reinforcement Learning]]></title>
+            <link>https://theolvs.github.io/blog/2021/03/06/tsp</link>
+            <guid>Solving the Traveling Salesman Problem with Reinforcement Learning</guid>
+            <pubDate>Sat, 06 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Summary]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Emergence.pub!]]></title>
             <link>https://theolvs.github.io/blog/2021/03/05/welcome</link>
-            <guid>Welcome to my blog</guid>
+            <guid>Welcome to Emergence.pub!</guid>
             <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Who am I?]]></description>
         </item>

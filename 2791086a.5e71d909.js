@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{77:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Solving the Traveling Salesman Problem with Reinforcement Learning","permalink":"/blog/2021/03/06/tsp"},{"title":"Welcome to Emergence.pub!","permalink":"/blog/2021/03/05/welcome"}]}')}}]);
