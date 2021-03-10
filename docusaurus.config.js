@@ -30,15 +30,16 @@ module.exports = {
       //   // src: 'img/logo3.png',
       // },
       items: [
+
+        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'opensource/', label: 'Open Source', position: 'left'},
+        {to: 'about/', label: 'About', position: 'left'},
         {
           to: 'docs/',
           activeBasePath: 'docs',
           label: 'Resources',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {to: 'opensource/', label: 'Open Source', position: 'left'},
-        {to: 'about/', label: 'About', position: 'left'},
         {
           href: 'https://github.com/theolvs',
           label: 'GitHub',
